@@ -3,4 +3,6 @@ Exercicio simples de manipulação de flexbox para criação de navs, usando com
 <a href='figma.com/file/JROZJl1NIj4ilZHXVl1xfr/Navbar-Flexbox?type=design&node-id=2-2&mode=design'>figma design</a>,
 advindo do curso: <a href='youtube.com/watch?v=gOMK_xruAqc&list=PLeHWwDbU95sMgpGkkLdg4AFkT-70oHzPs'>"DESCOMPLICANDO o CSS Flexbox"</a>.
 
+Você pode ver o demo criado por mim <a href='https://luizacastelar.github.io/flexbox/'>clicando aqui</a>.
+
 
