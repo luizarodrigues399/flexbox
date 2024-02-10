@@ -5,6 +5,6 @@ advindo do curso: <a href='http://youtube.com/watch?v=gOMK_xruAqc&list=PLeHWwDbU
 
 Não é responsivo para mobile.
 
-Você pode ver o demo criado por mim <a href='https://luizacastelar.github.io/flexbox/'>clicando aqui</a>.
+Você pode ver o demo criado por mim <a href='https://luizarodrigues399.github.io/flexbox/'>clicando aqui</a>.
 
 
